@@ -1,4 +1,8 @@
 # Us-to-U.S.
+- Us to US, a voluntary work organization
+
+
+preferred Content Manage System: Wordpress
 
 Current website that needs upgrade http://www.ustous.org
 
@@ -55,5 +59,6 @@ Us plus is a place where users can enroll some different courses that provided f
 4- Events functionality:
 Sometimes the organization manages and handle different types of events. Some of those events are free, and some are not. We need a plugin to show the new events on the main page so guest and users can purchase the tickets.  Anyone can buy the tickets not only registered users. Information like date, time, location details, a map for the location, and the price.
  
-We also need other pages to display the organization information.
+- Information pages: need different pages to display the organization information.
 
+- Main page: need our social media accounts to be displayed on the main page such as Twitter, Facebook, and Instagram.
